@@ -1,5 +1,4 @@
 <h1 align="center">Olá, Tudo bem ? Me chamo Bernardo Souza</h1>
-<h3 align="center">Sou um Desenvolvedor Fullstack</h3>
 
 - 🔭 Atualmente estou desenvolvendo o meu projeto [Calculadora de Metas](https://www.calculadorametas.com.br/)
 
