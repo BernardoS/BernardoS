@@ -21,6 +21,6 @@
     <img height="192px" width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardos&show_icons=true&locale=en&layout=compact" alt="bernardos" />
 </p>
 <p>
-    <img height="auto" width="50%%" align="left" src="https://github-readme-stats.vercel.app/api?username=bernardos&show_icons=true&locale=en" alt="bernardos" />
-    <img height="auto" width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardos&" alt="bernardos" />
+    <img height="auto" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=bernardos&show_icons=true&locale=en" alt="bernardos" />
+    <img height="auto" width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardos&" alt="bernardos" />
 </p>
