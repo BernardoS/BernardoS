@@ -10,7 +10,7 @@ Atuo como um dev Full Stack C# que vive entre um commit e outro tentando dominar
 
 Por aqui você vai encontrar meus projetos pessoais, ideias que saíram do papel (e algumas que ainda estão em debug).
 
-- 🔭 Atualmente estou desenvolvendo o meu projeto [Calculadora de Metas](https://www.calculadorametas.com.br/)
+- 🔭 Atualmente estou desenvolvendo o meu projeto [Calculadora de Metas](https://bernardos.github.io/calculadora-metas/)
 
 
 - 📫 Precisando, só chamar bernardo.sfs27@gmail.com
@@ -27,3 +27,4 @@ Por aqui você vai encontrar meus projetos pessoais, ideias que saíram do papel
     <img height="128px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardos&show_icons=true&locale=en&layout=compact" alt="bernardos" />
     <img height="128px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=bernardos&show_icons=true&locale=en" alt="bernardos" />
 </p>
+
