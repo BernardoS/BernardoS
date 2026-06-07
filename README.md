@@ -10,9 +10,6 @@ Atuo como um dev Full Stack C# tentando dominar o ecossistema .NET e outras tecn
 
 Por aqui você vai encontrar meus projetos pessoais, ideias que saíram do papel (e algumas que ainda estão em debug).
 
-- 🔭 Atualmente estou desenvolvendo o meu projeto [Calculadora de Metas](https://bernardos.github.io/calculadora-metas/)
-
-
 - 📫 Precisando, só chamar bernardo.sfs27@gmail.com
 
 ### 💻 Tecnologias que já experimentei:
